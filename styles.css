@@ -1,0 +1,63 @@
+body {
+    color: #ec0101;
+    background-color: black;
+}
+
+h2:hover {
+    color: #dbf6e9;
+}
+.info:hover{
+color:#ec0101;
+}
+
+img {
+    width: 350px;
+
+    box-shadow: 2px 2px 4px white;
+    
+}
+
+.info {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+a {
+    color: blue;
+}
+
+.head {
+    font-family: 'Architects Daughter', cursive;
+}
+
+.head1 {
+    font-family: 'Goldman', cursive;
+}
+
+.T {
+    text-align: center;
+    font-family: 'Texturina', serif;
+}
+
+.rea {
+    text-align: center;
+    font-family: 'Emblema One', cursive;
+}
+.img2{
+ display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 50%;
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+.H {
+    font-family: 'Texturina', serif;
+}
